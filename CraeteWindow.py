@@ -6,7 +6,7 @@ class Particle:
         self.x = x
         self.y = y
         self.size = size
-        self.color = (0, 0, 255)
+        self.colour = (0, 0, 255)
         self.thickness = 1
 
     def display(self):
